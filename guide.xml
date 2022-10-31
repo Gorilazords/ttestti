@@ -1,7 +1,5 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
-<tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version  V3.3.0.0 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
-  <channel id="HBO HD">
-    <display-name lang="pt">HBO HD</display-name>
-    <url>http://www.clarotv.com.br.EK</url>
-  </channel>
-</tv>
+<tv generator-info-name="Xtream Codes" generator-info-url="http://assista.live:80/">
+<channel id="">
+<display-name>Telecine Premium HD</display-name>
+<icon src="https://upload.wikimedia.org/wikipedia/commons/0/09/Telecine_Premium.png"/>
+</channel>
