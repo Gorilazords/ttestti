@@ -1,5 +1,21 @@
 <tv generator-info-name="Xtream Codes" generator-info-url="http://assista.live:80/">
 <channel id="">
-<display-name>Telecine Premium HD</display-name>
-<icon src="https://upload.wikimedia.org/wikipedia/commons/0/09/Telecine_Premium.png"/>
+<display-name>Band HD</display-name>
+<icon src="https://assets.meuguia.tv/logos/ban.png?v4.3.4g"/>
 </channel>
+<display-name>Globo</display-name>
+<icon src="https://assets.meuguia.tv/logos/grd.png?v4.3.4g"/>
+</channel>
+<channel id="">
+<display-name>Globo HD</display-name>
+<icon src="https://assets.meuguia.tv/logos/grd.png?v4.3.4g"/>
+</channel>
+<channel id="">
+<display-name>Record FHD</display-name>
+<icon src="https://assets.meuguia.tv/logos/rec.png?v4.3.4g"/>
+</channel>
+<channel id="">
+<display-name>Rede TV HD</display-name>
+<icon src="https://assets.meuguia.tv/logos/rtv.png?v4.3.4g"/>
+</channel>
+</tv>
