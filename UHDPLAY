@@ -1,17 +1,17 @@
 #EXTM3U
 
 
-#EXTINF:-1 tvg-id="band.br" tvg-name="Band HD" tvg-logo="https://assets.meuguia.tv/logos/ban.png?v4.3.4g" group-title="TV ABERTA",Band HD
+#EXTINF:-1 tvg-id="band.br" tvg-name="Band RJ HD" tvg-logo="https://assets.meuguia.tv/logos/ban.png?v4.3.4g" group-title="TV ABERTA",Band RJ HD
 http://axr.life:80/EbhTbZp8Zudg/kQyPeRtp2jRM/453180
 
-#EXTINF:-1 tvg-id="Globo.br" tvg-name="Globo" tvg-logo="https://assets.meuguia.tv/logos/grd.png?v4.3.4g" group-title="TV ABERTA",Globo
+#EXTINF:-1 tvg-id="globo.br" tvg-name="GLOBO RJ" tvg-logo="https://assets.meuguia.tv/logos/grd.png?v4.3.4g" group-title="TV ABERTA",GLOBO RJ
 http://axr.life:80/EbhTbZp8Zudg/kQyPeRtp2jRM/5307
 
-#EXTINF:-1 tvg-id="Globo.hd.br" tvg-name="Globo HD" tvg-logo="https://assets.meuguia.tv/logos/grd.png?v4.3.4g" group-title="TV ABERTA",Globo HD
+#EXTINF:-1 tvg-id="globo.hd.br" tvg-name="GLOBO RIO HD" tvg-logo="https://assets.meuguia.tv/logos/grd.png?v4.3.4g" group-title="TV ABERTA",GLOBO RIO HD
 http://axr.life:80/EbhTbZp8Zudg/kQyPeRtp2jRM/5352
 
-#EXTINF:-1 tvg-id="Record.hd.br" tvg-name="Record HD" tvg-logo="https://assets.meuguia.tv/logos/rec.png?v4.3.4g" group-title="TV ABERTA",Record HD
+#EXTINF:-1 tvg-id="record.br" tvg-name="Record 4K" tvg-logo="https://assets.meuguia.tv/logos/rec.png?v4.3.4g" group-title="TV ABERTA",Record 4K
 http://axr.life:80/EbhTbZp8Zudg/kQyPeRtp2jRM/5320
 
-#EXTINF:-1 tvg-id="Rede.tv.hd.br" tvg-name="Rede TV HD" tvg-logo="https://assets.meuguia.tv/logos/rtv.png?v4.3.4g" group-title="TV ABERTA",Rede TV HD
+#EXTINF:-1 tvg-id="rede.tv.hd.br" tvg-name="Rede TV HD" tvg-logo="https://assets.meuguia.tv/logos/rtv.png?v4.3.4g" group-title="TV ABERTA",Rede TV HD
 http://axr.life:80/EbhTbZp8Zudg/kQyPeRtp2jRM/354855
