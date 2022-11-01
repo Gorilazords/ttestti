@@ -1,21 +1,418 @@
 <tv generator-info-name="Xtream Codes" generator-info-url="http://assista.live:80/">
 <channel id="band.br">
-<display-name>Band HD</display-name>
-<icon src="https://assets.meuguia.tv/logos/ban.png?v4.3.4g"/>
+<display-name>Band RJ HD</display-name>
+<icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Rede_Bandeirantes_logo_2018.svg/1920px-Rede_Bandeirantes_logo_2018.svg.png"/>
 </channel>
-<channel id="Globo.br">
-<display-name>Globo</display-name>
+<channel id="globo.rj.br">
+<display-name>GLOBO RJ</display-name>
 <icon src="https://assets.meuguia.tv/logos/grd.png?v4.3.4g"/>
 </channel>
-<channel id="Globo.hd.br">
-<display-name>Globo HD</display-name>
+<channel id="globo.rio.br">
+<display-name>GLOBO RIO HD</display-name>
 <icon src="https://assets.meuguia.tv/logos/grd.png?v4.3.4g"/>
 </channel>
-<channel id="Record.hd.br">
-<display-name>Record HD</display-name>
+<channel id="record.br">
+<display-name>Record 4K</display-name>
 <icon src="https://assets.meuguia.tv/logos/rec.png?v4.3.4g"/>
 </channel>
+<channel id="sbt.rio.br">
+<display-name>SBT RJ HD</display-name>
+<icon src="https://assets.meuguia.tv/logos/rtv.png?v4.3.4g"/>
+</channel>
+<channel id="cultura.br">
+<display-name>TV CULTURA HD</display-name>
+<icon src="https://assets.meuguia.tv/logos/rtv.png?v4.3.4g"/>
+</channel>
+<channel id="band.sports.br">
+<display-name>BAND SPORTS HD</display-name>
+<icon src="https://assets.meuguia.tv/logos/rtv.png?v4.3.4g"/>
+</channel>
+<channel id="espn.brasil.br">
+<display-name>ESPN 1 HD</display-name>
+<icon src="https://assets.meuguia.tv/logos/rtv.png?v4.3.4g"/>
+</channel>
+<channel id="espn.br">
+<display-name>ESPN 2 HD</display-name>
+<icon src="https://assets.meuguia.tv/logos/rtv.png?v4.3.4g"/>
+</channel>
+<channel id="espn.plus.br">
+<display-name>ESPN 3 HD</display-name>
+<icon src="https://assets.meuguia.tv/logos/rtv.png?v4.3.4g"/>
+</channel>
+<channel id="">
+<display-name>ESPN 4 HD</display-name>
+<icon src="https://assets.meuguia.tv/logos/rtv.png?v4.3.4g"/>
+</channel>
+<channel id="espn.extra.br">
+<display-name>ESPN Extra HD</display-name>
+<icon src="https://assets.meuguia.tv/logos/rtv.png?v4.3.4g"/>
+</channel>
+<channel id="fox.sports.2.br">
+<display-name>FOX SPORTS 2 HD</display-name>
+<icon src="https://assets.meuguia.tv/logos/rtv.png?v4.3.4g"/>
+</channel>
+<channel id="sportv.br">
+<display-name>SPORTV 1 HD</display-name>
+<icon src="https://assets.meuguia.tv/logos/rtv.png?v4.3.4g"/>
+</channel>
+<channel id="sportv2.br">
+<display-name>SPORTV 2 HD</display-name>
+<icon src="https://assets.meuguia.tv/logos/rtv.png?v4.3.4g"/>
+</channel>
+<channel id="">
+<display-name>SPORTV 3 HD</display-name>
+<icon src="https://assets.meuguia.tv/logos/rtv.png?v4.3.4g"/>
+</channel>
+<channel id="premiere.clubes.br">
+<display-name>PREMIERE 1 HD</display-name>
+<icon src="https://assets.meuguia.tv/logos/rtv.png?v4.3.4g"/>
+</channel>
+<channel id="premiere.2.br">
+<display-name>PREMIERE 2 HD</display-name>
+<icon src="https://assets.meuguia.tv/logos/rtv.png?v4.3.4g"/>
+</channel>
+<channel id="premiere.3.br">
+<display-name>PREMIERE 3 HD</display-name>
+<icon src="https://assets.meuguia.tv/logos/rtv.png?v4.3.4g"/>
+</channel>
+<channel id="premiere.4.br">
+<display-name>PREMIERE 4 HD</display-name>
+<icon src="https://assets.meuguia.tv/logos/rtv.png?v4.3.4g"/>
+</channel>
+<channel id="premiere.5.br">
+<display-name>PREMIERE 5 HD</display-name>
+<icon src="https://assets.meuguia.tv/logos/rtv.png?v4.3.4g"/>
+</channel>
+<channel id="premiere.6.br">
+<display-name>PREMIERE 6 HD</display-name>
+<icon src="https://assets.meuguia.tv/logos/rtv.png?v4.3.4g"/>
+</channel>
+<channel id="premiere.7.br">
+<display-name>PREMIERE 7 HD</display-name>
+<icon src="https://assets.meuguia.tv/logos/rtv.png?v4.3.4g"/>
+</channel>
+<channel id="combate.br">
+<display-name>COMBATE HD</display-name>
+<icon src="https://assets.meuguia.tv/logos/rtv.png?v4.3.4g"/>
+</channel>
+<channel id="Cartoonito HD">
+<display-name>Cartoonito HD</display-name>
+<icon src="https://assets.meuguia.tv/logos/rtv.png?v4.3.4g"/>
+</channel>
+<channel id="cartoon.network.br">
+<display-name>CARTOON NETWORK HD</display-name>
+<icon src="https://assets.meuguia.tv/logos/rtv.png?v4.3.4g"/>
+</channel>
+<channel id="cartoon.network.br">
+<display-name>CARTOON NETWORK HD</display-name>
+<icon src="https://assets.meuguia.tv/logos/rtv.png?v4.3.4g"/>
+</channel>
 <channel id="Rede.tv.hd.br">
+<display-name>DISCOVERY KIDS HD</display-name>
+<icon src="https://assets.meuguia.tv/logos/rtv.png?v4.3.4g"/>
+</channel>
+<channel id="discovery.kids.br">
 <display-name>Rede TV HD</display-name>
 <icon src="https://assets.meuguia.tv/logos/rtv.png?v4.3.4g"/>
 </channel>
+<channel id="disney.br">
+<display-name>DISNEY CHANNEL HD</display-name>
+<icon src="https://assets.meuguia.tv/logos/rtv.png?v4.3.4g"/>
+</channel>
+<channel id="gloob.br">
+<display-name>GLOOB HD</display-name>
+<icon src="https://assets.meuguia.tv/logos/rtv.png?v4.3.4g"/>
+</channel>
+<channel id="gloobinho.br">
+<display-name>GLOOBINHO HD</display-name>
+<icon src="https://assets.meuguia.tv/logos/rtv.png?v4.3.4g"/>
+</channel>
+<channel id="nick.br">
+<display-name>NICKELODEON HD</display-name>
+<icon src="https://assets.meuguia.tv/logos/rtv.png?v4.3.4g"/>
+</channel>
+<channel id="nick.br">
+<display-name>NICKELODEON HD</display-name>
+<icon src="https://assets.meuguia.tv/logos/rtv.png?v4.3.4g"/>
+</channel>
+<channel id="nick.jr.br">
+<display-name>NICK JR HD</display-name>
+<icon src="https://assets.meuguia.tv/logos/rtv.png?v4.3.4g"/>
+</channel>
+<channel id="tooncast.br">
+<display-name>TOONCAST HD</display-name>
+<icon src="https://assets.meuguia.tv/logos/rtv.png?v4.3.4g"/>
+</channel>
+<channel id="zoomoo.br">
+<display-name>ZOOMOO HD</display-name>
+<icon src="https://assets.meuguia.tv/logos/rtv.png?v4.3.4g"/>
+</channel>
+<channel id="amc.br">
+<display-name>AMC HD</display-name>
+<icon src="https://assets.meuguia.tv/logos/rtv.png?v4.3.4g"/>
+</channel>
+<channel id="amc.br">
+<display-name>AMC HD</display-name>
+<icon src="https://assets.meuguia.tv/logos/rtv.png?v4.3.4g"/>
+</channel>
+<channel id="axn.br">
+<display-name>AXN HD</display-name>
+<icon src="https://assets.meuguia.tv/logos/rtv.png?v4.3.4g"/>
+</channel>
+<channel id="canal.brasil.br">
+<display-name>CANAL BRASIL HD2</display-name>
+<icon src="https://assets.meuguia.tv/logos/rtv.png?v4.3.4g"/>
+</channel>
+<channel id="cinemax.br">
+<display-name>CINEMAX HD</display-name>
+<icon src="https://assets.meuguia.tv/logos/rtv.png?v4.3.4g"/>
+</channel>
+<channel id="canal.brasil.br">
+<display-name>CANAL BRASIL HD2</display-name>
+<icon src="https://assets.meuguia.tv/logos/rtv.png?v4.3.4g"/>
+</channel>
+<channel id="comedy.central.br">
+<display-name>Comedy Central 4K</display-name>
+<icon src="https://assets.meuguia.tv/logos/rtv.png?v4.3.4g"/>
+</channel>
+<channel id="star.br">
+<display-name>Star Channel 4K</display-name>
+<icon src="https://assets.meuguia.tv/logos/rtv.png?v4.3.4g"/>
+</channel>
+<channel id="fx.br">
+<display-name>FX HD</display-name>
+<icon src="https://assets.meuguia.tv/logos/rtv.png?v4.3.4g"/>
+</channel>
+<channel id="hbo.br">
+<display-name>HBO HD DUAL AUDIO</display-name>
+<icon src="https://assets.meuguia.tv/logos/rtv.png?v4.3.4g"/>
+</channel>
+<channel id="hbo.2.br">
+<display-name>HBO 2 HD DUAL AUDIO</display-name>
+<icon src="https://assets.meuguia.tv/logos/rtv.png?v4.3.4g"/>
+</channel>
+<channel id="hbo.fam.br">
+<display-name>HBO FAMILY HD DUAL AUDIO</display-name>
+<icon src="https://assets.meuguia.tv/logos/rtv.png?v4.3.4g"/>
+</channel>
+<channel id="hbo.plus.br">
+<display-name>HBO PLUS HD DUAL AUDIO</display-name>
+<icon src="https://assets.meuguia.tv/logos/rtv.png?v4.3.4g"/>
+</channel>
+<channel id="hbo.signature.br">
+<display-name>HBO SIGNATURE HD DUAL AUDIO</display-name>
+<icon src="https://assets.meuguia.tv/logos/rtv.png?v4.3.4g"/>
+</channel>
+<channel id="hbo.mundi.br">
+<display-name>HBO MUNDI HD DUAL AUDIO</display-name>
+<icon src="https://assets.meuguia.tv/logos/rtv.png?v4.3.4g"/>
+</channel>
+<channel id="hbo.pop.br">
+<display-name>HBO POP HD DUAL AUDIO</display-name>
+<icon src="https://assets.meuguia.tv/logos/rtv.png?v4.3.4g"/>
+</channel>
+<channel id="hbo.xtr.br">
+<display-name>HBO XTREME HD DUAL AUDIO</display-name>
+<icon src="https://assets.meuguia.tv/logos/rtv.png?v4.3.4g"/>
+</channel>
+<channel id="megapix.br">
+<display-name>MEGAPIX HD</display-name>
+<icon src="https://assets.meuguia.tv/logos/rtv.png?v4.3.4g"/>
+</channel>
+<channel id="paramount.br">
+<display-name>PARAMOUNT CHANNEL HD</display-name>
+<icon src="https://assets.meuguia.tv/logos/rtv.png?v4.3.4g"/>
+</channel>
+<channel id="sony.br">
+<display-name>SONY HD</display-name>
+<icon src="https://assets.meuguia.tv/logos/rtv.png?v4.3.4g"/>
+</channel>
+<channel id="space.br">
+<display-name>SPACE HD</display-name>
+<icon src="https://assets.meuguia.tv/logos/rtv.png?v4.3.4g"/>
+</channel>
+<channel id="studio.universal.br">
+<display-name>STUDIO UNIVERSAL HD</display-name>
+<icon src="https://assets.meuguia.tv/logos/rtv.png?v4.3.4g"/>
+</channel>
+<channel id="syfy.br">
+<display-name>SYFY HD</display-name>
+<icon src="https://assets.meuguia.tv/logos/rtv.png?v4.3.4g"/>
+</channel>
+<channel id="tbs.br">
+<display-name>TBS HD</display-name>
+<icon src="https://assets.meuguia.tv/logos/rtv.png?v4.3.4g"/>
+</channel>
+<channel id="telecine.action.br">
+<display-name>TELECINE ACTION HD DUAL AUDIO</display-name>
+<icon src="https://assets.meuguia.tv/logos/rtv.png?v4.3.4g"/>
+</channel>
+<channel id="telecine.cult.br">
+<display-name>TELECINE CULT HD DUAL AUDIO</display-name>
+<icon src="https://assets.meuguia.tv/logos/rtv.png?v4.3.4g"/>
+</channel>
+<channel id="telecine.fun.br">
+<display-name>TELECINE FUN HD DUAL AUDIO</display-name>
+<icon src="https://assets.meuguia.tv/logos/rtv.png?v4.3.4g"/>
+</channel>
+<channel id="telecine.pipoca.br">
+<display-name>TELECINE PIPOCA HD DUAL AUDIO</display-name>
+<icon src="https://assets.meuguia.tv/logos/rtv.png?v4.3.4g"/>
+</channel>
+<channel id="telecine.premium.br">
+<display-name>TELECINE PREMIUM HD DUAL AUDIO</display-name>
+<icon src="https://assets.meuguia.tv/logos/rtv.png?v4.3.4g"/>
+</channel>
+<channel id="telecine.touch.br">
+<display-name>TELECINE TOUCH HD DUAL AUDIO</display-name>
+<icon src="https://assets.meuguia.tv/logos/rtv.png?v4.3.4g"/>
+</channel>
+<channel id="tcm.br">
+<display-name>TCM HD</display-name>
+<icon src="https://assets.meuguia.tv/logos/rtv.png?v4.3.4g"/>
+</channel>
+<channel id="tnt.br">
+<display-name>TNT HD</display-name>
+<icon src="https://assets.meuguia.tv/logos/rtv.png?v4.3.4g"/>
+</channel>
+<channel id="tnt.series.br">
+<display-name>TNT SERIES HD</display-name>
+<icon src="https://assets.meuguia.tv/logos/rtv.png?v4.3.4g"/>
+</channel>
+<channel id="studio.universal.br">
+<display-name>Universal Tv (H265)</display-name>
+<icon src="https://assets.meuguia.tv/logos/rtv.png?v4.3.4g"/>
+</channel>
+<channel id="warner.br">
+<display-name>WARNER CHANNEL HD</display-name>
+<icon src="https://assets.meuguia.tv/logos/rtv.png?v4.3.4g"/>
+</channel>
+<channel id="animal.planet.br">
+<display-name>ANIMAL PLANET HD</display-name>
+<icon src="https://assets.meuguia.tv/logos/rtv.png?v4.3.4g"/>
+</channel>
+<channel id="arte.1.br">
+<display-name>ARTE 1 HD2</display-name>
+<icon src="https://assets.meuguia.tv/logos/rtv.png?v4.3.4g"/>
+</channel>
+<channel id="discovery.br">
+<display-name>DISCOVERY CHANNEL HD</display-name>
+<icon src="https://assets.meuguia.tv/logos/rtv.png?v4.3.4g"/>
+</channel>
+<channel id="discovery.science.br">
+<display-name>DISCOVERY SCIENCE HD</display-name>
+<icon src="https://assets.meuguia.tv/logos/rtv.png?v4.3.4g"/>
+</channel>
+<channel id="discovery.theater.br">
+<display-name>DISCOVERY THEATER HD</display-name>
+<icon src="https://assets.meuguia.tv/logos/rtv.png?v4.3.4g"/>
+</channel>
+<channel id="discovery.world.br">
+<display-name>DISCOVERY WORLD HD</display-name>
+<icon src="https://assets.meuguia.tv/logos/rtv.png?v4.3.4g"/>
+</channel>
+<channel id="history.br">
+<display-name>HISTORY CHANNEL HD</display-name>
+<icon src="https://assets.meuguia.tv/logos/rtv.png?v4.3.4g"/>
+</channel>
+<channel id="h2.br">
+<display-name>H2 HD</display-name>
+<icon src="https://assets.meuguia.tv/logos/rtv.png?v4.3.4g"/>
+</channel>
+<channel id="national.geographic.br">
+<display-name>NATIONAL GEOGRAPHIC HD</display-name>
+<icon src="https://assets.meuguia.tv/logos/rtv.png?v4.3.4g"/>
+</channel>
+<channel id="a.e.br">
+<display-name>A&E HD</display-name>
+<icon src="https://assets.meuguia.tv/logos/rtv.png?v4.3.4g"/>
+</channel>
+<channel id="bis.br">
+<display-name>BIS HD2</display-name>
+<icon src="https://assets.meuguia.tv/logos/rtv.png?v4.3.4g"/>
+</channel>
+<channel id="discovery.turbo.br">
+<display-name>DISCOVERY TURBO HD</display-name>
+<icon src="https://assets.meuguia.tv/logos/rtv.png?v4.3.4g"/>
+</channel>
+<channel id="e.br">
+<display-name>E! HD2</display-name>
+<icon src="https://assets.meuguia.tv/logos/rtv.png?v4.3.4g"/>
+</channel>
+<channel id="fashion.br">
+<display-name>FASHION tv HD2</display-name>
+<icon src="https://assets.meuguia.tv/logos/rtv.png?v4.3.4g"/>
+</channel>
+<channel id="Rede.tv.hd.br">
+<display-name>FISH TV HD</display-name>
+<icon src="https://assets.meuguia.tv/logos/rtv.png?v4.3.4g"/>
+</channel>
+<channel id="fish.br">
+<display-name>Rede TV HD</display-name>
+<icon src="https://assets.meuguia.tv/logos/rtv.png?v4.3.4g"/>
+</channel>
+<channel id="food.network.br">
+<display-name>FOOD NETWORK HD2</display-name>
+<icon src="https://assets.meuguia.tv/logos/rtv.png?v4.3.4g"/>
+</channel>
+<channel id="gnt.br">
+<display-name>GNT HD2</display-name>
+<icon src="https://assets.meuguia.tv/logos/rtv.png?v4.3.4g"/>
+</channel>
+<channel id="hgtv.br">
+<display-name>HGTV HD</display-name>
+<icon src="https://assets.meuguia.tv/logos/rtv.png?v4.3.4g"/>
+</channel>
+<channel id="discovery.home.health.br">
+<display-name>DISCOVERY HOME & HEALTH HD</display-name>
+<icon src="https://assets.meuguia.tv/logos/rtv.png?v4.3.4g"/>
+</channel>
+<channel id="tvg.br">
+<display-name>ID - INVESTIGAÇÃO DISCOVERY HD</display-name>
+<icon src="https://assets.meuguia.tv/logos/rtv.png?v4.3.4g"/>
+</channel>
+<channel id="lifetime.brazil.br">
+<display-name>LIFETIME HD</display-name>
+<icon src="https://assets.meuguia.tv/logos/rtv.png?v4.3.4g"/>
+</channel>
+<channel id="mtv.br">
+<display-name>Mtv FHD2</display-name>
+<icon src="https://assets.meuguia.tv/logos/rtv.png?v4.3.4g"/>
+</channel>
+<channel id="multishow.br">
+<display-name>MULTISHOW HD2</display-name>
+<icon src="https://assets.meuguia.tv/logos/rtv.png?v4.3.4g"/>
+</channel>
+<channel id="off.br">
+<display-name>OFF HD</display-name>
+<icon src="https://assets.meuguia.tv/logos/rtv.png?v4.3.4g"/>
+</channel>
+<channel id="tlc.br">
+<display-name>DISCOVERY TLC HD</display-name>
+<icon src="https://assets.meuguia.tv/logos/rtv.png?v4.3.4g"/>
+</channel>
+<channel id="viva.br">
+<display-name>VIVA FHD2</display-name>
+<icon src="https://assets.meuguia.tv/logos/rtv.png?v4.3.4g"/>
+</channel>
+<channel id="woohoo.br">
+<display-name>WOOHOO SD2</display-name>
+<icon src="https://assets.meuguia.tv/logos/rtv.png?v4.3.4g"/>
+</channel>
+<channel id="band.news.br">
+<display-name>BAND NEWS HD2</display-name>
+<icon src="https://assets.meuguia.tv/logos/rtv.png?v4.3.4g"/>
+</channel>
+<channel id="cnn.brasil.br">
+<display-name>CNN BRASIL HD2</display-name>
+<icon src="https://assets.meuguia.tv/logos/rtv.png?v4.3.4g"/>
+</channel>
+<channel id="globo.news.br">
+<display-name>GLOBO NEWS HD2</display-name>
+<icon src="https://assets.meuguia.tv/logos/rtv.png?v4.3.4g"/>
+</channel>
+<channel id="record.news.br">
+<display-name>RECORD NEWS HD2</display-name>
+<icon src="https://assets.meuguia.tv/logos/rtv.png?v4.3.4g"/>
+</channel>
+ 
