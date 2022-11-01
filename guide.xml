@@ -5,414 +5,402 @@
 </channel>
 <channel id="globo.rj.br">
 <display-name>GLOBO RJ</display-name>
-<icon src="https://assets.meuguia.tv/logos/grd.png?v4.3.4g"/>
+<icon src="https://upload.wikimedia.org/wikipedia/pt/9/9e/Logotipo_da_TV_Globo.png"/>
 </channel>
 <channel id="globo.rio.br">
 <display-name>GLOBO RIO HD</display-name>
-<icon src="https://assets.meuguia.tv/logos/grd.png?v4.3.4g"/>
+<icon src="https://upload.wikimedia.org/wikipedia/pt/9/9e/Logotipo_da_TV_Globo.png"/>
 </channel>
 <channel id="record.br">
 <display-name>Record 4K</display-name>
-<icon src="https://assets.meuguia.tv/logos/rec.png?v4.3.4g"/>
+<icon src="https://upload.wikimedia.org/wikipedia/pt/1/10/Logotipo_da_Record.png"/>
 </channel>
 <channel id="sbt.rio.br">
 <display-name>SBT RJ HD</display-name>
-<icon src="https://assets.meuguia.tv/logos/rtv.png?v4.3.4g"/>
+<icon src="https://upload.wikimedia.org/wikipedia/pt/thumb/4/41/Logotipo_do_SBT.svg/1024px-Logotipo_do_SBT.svg.png"/>
 </channel>
 <channel id="cultura.br">
 <display-name>TV CULTURA HD</display-name>
-<icon src="https://assets.meuguia.tv/logos/rtv.png?v4.3.4g"/>
+<icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Cultura_logo_2013.svg/200px-Cultura_logo_2013.svg.png"/>
 </channel>
 <channel id="band.sports.br">
 <display-name>BAND SPORTS HD</display-name>
-<icon src="https://assets.meuguia.tv/logos/rtv.png?v4.3.4g"/>
+<icon src="https://upload.wikimedia.org/wikipedia/commons/5/5d/BandSports_logo_2018.png"/>
 </channel>
 <channel id="espn.brasil.br">
 <display-name>ESPN 1 HD</display-name>
-<icon src="https://assets.meuguia.tv/logos/rtv.png?v4.3.4g"/>
+<icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/1920px-ESPN_wordmark.svg.png"/>
 </channel>
 <channel id="espn.br">
 <display-name>ESPN 2 HD</display-name>
-<icon src="https://assets.meuguia.tv/logos/rtv.png?v4.3.4g"/>
+<icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/ESPN2_logo.svg/1920px-ESPN2_logo.svg.png"/>
 </channel>
 <channel id="espn.plus.br">
 <display-name>ESPN 3 HD</display-name>
-<icon src="https://assets.meuguia.tv/logos/rtv.png?v4.3.4g"/>
+<icon src="https://upload.wikimedia.org/wikipedia/commons/5/51/ESPN3_Logo.png"/>
 </channel>
 <channel id="">
 <display-name>ESPN 4 HD</display-name>
-<icon src="https://assets.meuguia.tv/logos/rtv.png?v4.3.4g"/>
+<icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/ESPN_4_logo.svg/1920px-ESPN_4_logo.svg.png"/>
 </channel>
 <channel id="espn.extra.br">
 <display-name>ESPN Extra HD</display-name>
-<icon src="https://assets.meuguia.tv/logos/rtv.png?v4.3.4g"/>
+<icon src="https://upload.wikimedia.org/wikipedia/commons/b/b9/Espn_extra_2015.PNG"/>
 </channel>
 <channel id="fox.sports.2.br">
 <display-name>FOX SPORTS 2 HD</display-name>
-<icon src="https://assets.meuguia.tv/logos/rtv.png?v4.3.4g"/>
+<icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/2015_Fox_sports_logo.svg/1920px-2015_Fox_sports_logo.svg.png"/>
 </channel>
 <channel id="sportv.br">
 <display-name>SPORTV 1 HD</display-name>
-<icon src="https://assets.meuguia.tv/logos/rtv.png?v4.3.4g"/>
+<icon src="https://upload.wikimedia.org/wikipedia/commons/2/26/SporTV_2021.png"/>
 </channel>
 <channel id="sportv2.br">
 <display-name>SPORTV 2 HD</display-name>
-<icon src="https://assets.meuguia.tv/logos/rtv.png?v4.3.4g"/>
+<icon src="https://upload.wikimedia.org/wikipedia/commons/0/01/SporTV2_2021.png"/>
 </channel>
 <channel id="">
 <display-name>SPORTV 3 HD</display-name>
-<icon src="https://assets.meuguia.tv/logos/rtv.png?v4.3.4g"/>
+<icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/SporTV3_2021.png/1920px-SporTV3_2021.png"/>
 </channel>
 <channel id="premiere.clubes.br">
 <display-name>PREMIERE 1 HD</display-name>
-<icon src="https://assets.meuguia.tv/logos/rtv.png?v4.3.4g"/>
+<icon src="https://upload.wikimedia.org/wikipedia/pt/a/a2/Logo_Premiere_FC_2018.png"/>
 </channel>
 <channel id="premiere.2.br">
 <display-name>PREMIERE 2 HD</display-name>
-<icon src="https://assets.meuguia.tv/logos/rtv.png?v4.3.4g"/>
+<icon src="https://upload.wikimedia.org/wikipedia/pt/a/a2/Logo_Premiere_FC_2018.png"/>
 </channel>
 <channel id="premiere.3.br">
 <display-name>PREMIERE 3 HD</display-name>
-<icon src="https://assets.meuguia.tv/logos/rtv.png?v4.3.4g"/>
+<icon src="https://upload.wikimedia.org/wikipedia/pt/a/a2/Logo_Premiere_FC_2018.png"/>
 </channel>
 <channel id="premiere.4.br">
 <display-name>PREMIERE 4 HD</display-name>
-<icon src="https://assets.meuguia.tv/logos/rtv.png?v4.3.4g"/>
+<icon src="https://upload.wikimedia.org/wikipedia/pt/a/a2/Logo_Premiere_FC_2018.png"/>
 </channel>
 <channel id="premiere.5.br">
 <display-name>PREMIERE 5 HD</display-name>
-<icon src="https://assets.meuguia.tv/logos/rtv.png?v4.3.4g"/>
+<icon src="https://upload.wikimedia.org/wikipedia/pt/a/a2/Logo_Premiere_FC_2018.png"/>
 </channel>
 <channel id="premiere.6.br">
 <display-name>PREMIERE 6 HD</display-name>
-<icon src="https://assets.meuguia.tv/logos/rtv.png?v4.3.4g"/>
+<icon src="https://upload.wikimedia.org/wikipedia/pt/a/a2/Logo_Premiere_FC_2018.png"/>
 </channel>
 <channel id="premiere.7.br">
 <display-name>PREMIERE 7 HD</display-name>
-<icon src="https://assets.meuguia.tv/logos/rtv.png?v4.3.4g"/>
+<icon src="https://upload.wikimedia.org/wikipedia/pt/a/a2/Logo_Premiere_FC_2018.png"/>
 </channel>
 <channel id="combate.br">
 <display-name>COMBATE HD</display-name>
-<icon src="https://assets.meuguia.tv/logos/rtv.png?v4.3.4g"/>
+<icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Combate_logo.svg/1920px-Combate_logo.svg.png"/>
 </channel>
 <channel id="Cartoonito HD">
 <display-name>Cartoonito HD</display-name>
-<icon src="https://assets.meuguia.tv/logos/rtv.png?v4.3.4g"/>
+<icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Cartoonito_-_Logo_2021.svg/1920px-Cartoonito_-_Logo_2021.svg.png"/>
 </channel>
 <channel id="cartoon.network.br">
 <display-name>CARTOON NETWORK HD</display-name>
-<icon src="https://assets.meuguia.tv/logos/rtv.png?v4.3.4g"/>
+<icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/1920px-Cartoon_Network_2010_logo.svg.png"/>
 </channel>
 <channel id="cartoon.network.br">
 <display-name>CARTOON NETWORK HD</display-name>
-<icon src="https://assets.meuguia.tv/logos/rtv.png?v4.3.4g"/>
-</channel>
-<channel id="Rede.tv.hd.br">
-<display-name>DISCOVERY KIDS HD</display-name>
-<icon src="https://assets.meuguia.tv/logos/rtv.png?v4.3.4g"/>
+<icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Cartoon_Network_HD_logo.svg/800px-Cartoon_Network_HD_logo.svg.png"/>
 </channel>
 <channel id="discovery.kids.br">
-<display-name>Rede TV HD</display-name>
-<icon src="https://assets.meuguia.tv/logos/rtv.png?v4.3.4g"/>
+<display-name>DISCOVERY KIDS HD</display-name>
+<icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Discovery_Kids_Logo_2021-Presente.webp/215px-Discovery_Kids_Logo_2021-Presente.webp.png"/>
 </channel>
 <channel id="disney.br">
 <display-name>DISNEY CHANNEL HD</display-name>
-<icon src="https://assets.meuguia.tv/logos/rtv.png?v4.3.4g"/>
+<icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/2019_Disney_Channel_logo.svg/1920px-2019_Disney_Channel_logo.svg.png"/>
 </channel>
 <channel id="gloob.br">
 <display-name>GLOOB HD</display-name>
-<icon src="https://assets.meuguia.tv/logos/rtv.png?v4.3.4g"/>
+<icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Gloob_logo_%28blue%29.svg/1920px-Gloob_logo_%28blue%29.svg.png"/>
 </channel>
 <channel id="gloobinho.br">
 <display-name>GLOOBINHO HD</display-name>
-<icon src="https://assets.meuguia.tv/logos/rtv.png?v4.3.4g"/>
+<icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Gloobinho_logo.svg/1920px-Gloobinho_logo.svg.png"/>
 </channel>
 <channel id="nick.br">
 <display-name>NICKELODEON HD</display-name>
-<icon src="https://assets.meuguia.tv/logos/rtv.png?v4.3.4g"/>
+<icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Nickelodeon_2009_logo.svg/1920px-Nickelodeon_2009_logo.svg.png"/>
 </channel>
 <channel id="nick.br">
 <display-name>NICKELODEON HD</display-name>
-<icon src="https://assets.meuguia.tv/logos/rtv.png?v4.3.4g"/>
+<icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Nick_HD_Logo.svg/1920px-Nick_HD_Logo.svg.png"/>
 </channel>
 <channel id="nick.jr.br">
 <display-name>NICK JR HD</display-name>
-<icon src="https://assets.meuguia.tv/logos/rtv.png?v4.3.4g"/>
+<icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Nick_Jr._logo_2009.svg/1920px-Nick_Jr._logo_2009.svg.png"/>
 </channel>
 <channel id="tooncast.br">
 <display-name>TOONCAST HD</display-name>
-<icon src="https://assets.meuguia.tv/logos/rtv.png?v4.3.4g"/>
+<icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Tooncast_logo_%282%29.svg/1920px-Tooncast_logo_%282%29.svg.png"/>
 </channel>
 <channel id="zoomoo.br">
 <display-name>ZOOMOO HD</display-name>
-<icon src="https://assets.meuguia.tv/logos/rtv.png?v4.3.4g"/>
+<icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/ZooMoo-Kids-Logo-Oficial-01.png/1024px-ZooMoo-Kids-Logo-Oficial-01.png"/>
 </channel>
 <channel id="amc.br">
 <display-name>AMC HD</display-name>
-<icon src="https://assets.meuguia.tv/logos/rtv.png?v4.3.4g"/>
+<icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/AMC_logo_2019.svg/1920px-AMC_logo_2019.svg.png"/>
 </channel>
 <channel id="amc.br">
 <display-name>AMC HD</display-name>
-<icon src="https://assets.meuguia.tv/logos/rtv.png?v4.3.4g"/>
+<icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/AMC_logo_2019.svg/1920px-AMC_logo_2019.svg.png"/>
 </channel>
 <channel id="axn.br">
 <display-name>AXN HD</display-name>
-<icon src="https://assets.meuguia.tv/logos/rtv.png?v4.3.4g"/>
+<icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/250px-AXN_logo_%282015%29.svg.png"/>
 </channel>
 <channel id="canal.brasil.br">
 <display-name>CANAL BRASIL HD2</display-name>
-<icon src="https://assets.meuguia.tv/logos/rtv.png?v4.3.4g"/>
+<icon src="https://upload.wikimedia.org/wikipedia/commons/8/8e/CanalBrasil_logos_700px_0-03.png"/>
 </channel>
 <channel id="cinemax.br">
 <display-name>CINEMAX HD</display-name>
-<icon src="https://assets.meuguia.tv/logos/rtv.png?v4.3.4g"/>
-</channel>
-<channel id="canal.brasil.br">
-<display-name>CANAL BRASIL HD2</display-name>
-<icon src="https://assets.meuguia.tv/logos/rtv.png?v4.3.4g"/>
+<icon src="https://upload.wikimedia.org/wikipedia/commons/6/6a/Cinemax_LA.png"/>
 </channel>
 <channel id="comedy.central.br">
 <display-name>Comedy Central 4K</display-name>
-<icon src="https://assets.meuguia.tv/logos/rtv.png?v4.3.4g"/>
+<icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Comedy_Central_2018.svg/1920px-Comedy_Central_2018.svg.png"/>
 </channel>
 <channel id="star.br">
 <display-name>Star Channel 4K</display-name>
-<icon src="https://assets.meuguia.tv/logos/rtv.png?v4.3.4g"/>
+<icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Star_Channel_2020.svg/1920px-Star_Channel_2020.svg.png"/>
 </channel>
 <channel id="fx.br">
 <display-name>FX HD</display-name>
-<icon src="https://assets.meuguia.tv/logos/rtv.png?v4.3.4g"/>
+<icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/FX_International_logo.svg/1920px-FX_International_logo.svg.png"/>
 </channel>
 <channel id="hbo.br">
 <display-name>HBO HD DUAL AUDIO</display-name>
-<icon src="https://assets.meuguia.tv/logos/rtv.png?v4.3.4g"/>
+<icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/1920px-HBO_logo.svg.png"/>
 </channel>
 <channel id="hbo.2.br">
 <display-name>HBO 2 HD DUAL AUDIO</display-name>
-<icon src="https://assets.meuguia.tv/logos/rtv.png?v4.3.4g"/>
+<icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/HBO2_logo.svg/1920px-HBO2_logo.svg.png"/>
 </channel>
 <channel id="hbo.fam.br">
 <display-name>HBO FAMILY HD DUAL AUDIO</display-name>
-<icon src="https://assets.meuguia.tv/logos/rtv.png?v4.3.4g"/>
+<icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/HBO_Family.svg/1280px-HBO_Family.svg.png"/>
 </channel>
 <channel id="hbo.plus.br">
 <display-name>HBO PLUS HD DUAL AUDIO</display-name>
-<icon src="https://assets.meuguia.tv/logos/rtv.png?v4.3.4g"/>
+<icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Logohboplus2019.svg/1920px-Logohboplus2019.svg.png"/>
 </channel>
 <channel id="hbo.signature.br">
 <display-name>HBO SIGNATURE HD DUAL AUDIO</display-name>
-<icon src="https://assets.meuguia.tv/logos/rtv.png?v4.3.4g"/>
+<icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/HBO_Signature.svg/156px-HBO_Signature.svg.png"/>
 </channel>
 <channel id="hbo.mundi.br">
 <display-name>HBO MUNDI HD DUAL AUDIO</display-name>
-<icon src="https://assets.meuguia.tv/logos/rtv.png?v4.3.4g"/>
+<icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/HBO_Mundi.svg/1920px-HBO_Mundi.svg.png"/>
 </channel>
 <channel id="hbo.pop.br">
 <display-name>HBO POP HD DUAL AUDIO</display-name>
-<icon src="https://assets.meuguia.tv/logos/rtv.png?v4.3.4g"/>
+<icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/HBO_Pop.svg/1280px-HBO_Pop.svg.png"/>
 </channel>
 <channel id="hbo.xtr.br">
 <display-name>HBO XTREME HD DUAL AUDIO</display-name>
-<icon src="https://assets.meuguia.tv/logos/rtv.png?v4.3.4g"/>
+<icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/HBO_Xtreme.svg/1920px-HBO_Xtreme.svg.png"/>
 </channel>
 <channel id="megapix.br">
 <display-name>MEGAPIX HD</display-name>
-<icon src="https://assets.meuguia.tv/logos/rtv.png?v4.3.4g"/>
+<icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Megapix_fundoclaro_midiaimpressa.png/1920px-Megapix_fundoclaro_midiaimpressa.png"/>
 </channel>
 <channel id="paramount.br">
 <display-name>PARAMOUNT CHANNEL HD</display-name>
-<icon src="https://assets.meuguia.tv/logos/rtv.png?v4.3.4g"/>
+<icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Paramount_Network.svg/1024px-Paramount_Network.svg.png"/>
 </channel>
 <channel id="sony.br">
 <display-name>SONY HD</display-name>
-<icon src="https://assets.meuguia.tv/logos/rtv.png?v4.3.4g"/>
+<icon src="https://upload.wikimedia.org/wikipedia/commons/b/b9/Sony_Channel_Logo.png"/>
 </channel>
 <channel id="space.br">
 <display-name>SPACE HD</display-name>
-<icon src="https://assets.meuguia.tv/logos/rtv.png?v4.3.4g"/>
+<icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/SpaceLogo.svg/1920px-SpaceLogo.svg.png"/>
 </channel>
 <channel id="studio.universal.br">
 <display-name>STUDIO UNIVERSAL HD</display-name>
-<icon src="https://assets.meuguia.tv/logos/rtv.png?v4.3.4g"/>
+<icon src="https://upload.wikimedia.org/wikipedia/commons/7/74/StudioUniversal2016.png"/>
 </channel>
 <channel id="syfy.br">
 <display-name>SYFY HD</display-name>
-<icon src="https://assets.meuguia.tv/logos/rtv.png?v4.3.4g"/>
+<icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/SYFY.svg/1920px-SYFY.svg.png"/>
 </channel>
 <channel id="tbs.br">
 <display-name>TBS HD</display-name>
-<icon src="https://assets.meuguia.tv/logos/rtv.png?v4.3.4g"/>
+<icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/TBS_logo_2016.svg/1920px-TBS_logo_2016.svg.png"/>
 </channel>
 <channel id="telecine.action.br">
 <display-name>TELECINE ACTION HD DUAL AUDIO</display-name>
-<icon src="https://assets.meuguia.tv/logos/rtv.png?v4.3.4g"/>
+<icon src="https://upload.wikimedia.org/wikipedia/commons/3/37/Telecine_Action_2.png"/>
 </channel>
 <channel id="telecine.cult.br">
 <display-name>TELECINE CULT HD DUAL AUDIO</display-name>
-<icon src="https://assets.meuguia.tv/logos/rtv.png?v4.3.4g"/>
+<icon src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Telecine_Cult_2019.png"/>
 </channel>
 <channel id="telecine.fun.br">
 <display-name>TELECINE FUN HD DUAL AUDIO</display-name>
-<icon src="https://assets.meuguia.tv/logos/rtv.png?v4.3.4g"/>
+<icon src="https://upload.wikimedia.org/wikipedia/commons/f/f8/Telecine-fun-2.png"/>
 </channel>
 <channel id="telecine.pipoca.br">
 <display-name>TELECINE PIPOCA HD DUAL AUDIO</display-name>
-<icon src="https://assets.meuguia.tv/logos/rtv.png?v4.3.4g"/>
+<icon src="https://upload.wikimedia.org/wikipedia/commons/d/dd/Telecine_Pipoca_2.png"/>
 </channel>
 <channel id="telecine.premium.br">
 <display-name>TELECINE PREMIUM HD DUAL AUDIO</display-name>
-<icon src="https://assets.meuguia.tv/logos/rtv.png?v4.3.4g"/>
+<icon src="https://upload.wikimedia.org/wikipedia/commons/0/09/Telecine_Premium.png"/>
 </channel>
 <channel id="telecine.touch.br">
 <display-name>TELECINE TOUCH HD DUAL AUDIO</display-name>
-<icon src="https://assets.meuguia.tv/logos/rtv.png?v4.3.4g"/>
+<icon src="https://upload.wikimedia.org/wikipedia/commons/b/b6/Telecine_Touch_3.png"/>
 </channel>
 <channel id="tcm.br">
 <display-name>TCM HD</display-name>
-<icon src="https://assets.meuguia.tv/logos/rtv.png?v4.3.4g"/>
+<icon src="https://upload.wikimedia.org/wikipedia/commons/e/ef/Turner_Classic_Movies_%28TCM%2C_Latin_America%29_-_2015_logo.png"/>
 </channel>
 <channel id="tnt.br">
 <display-name>TNT HD</display-name>
-<icon src="https://assets.meuguia.tv/logos/rtv.png?v4.3.4g"/>
+<icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/TNT_Logo_2016.svg/1024px-TNT_Logo_2016.svg.png"/>
 </channel>
 <channel id="tnt.series.br">
 <display-name>TNT SERIES HD</display-name>
-<icon src="https://assets.meuguia.tv/logos/rtv.png?v4.3.4g"/>
+<icon src="https://upload.wikimedia.org/wikipedia/commons/7/75/TNT_Series_Logo_2016.png"/>
 </channel>
 <channel id="studio.universal.br">
 <display-name>Universal Tv (H265)</display-name>
-<icon src="https://assets.meuguia.tv/logos/rtv.png?v4.3.4g"/>
+<icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Universal_TV_logo.svg/1920px-Universal_TV_logo.svg.png"/>
 </channel>
 <channel id="warner.br">
 <display-name>WARNER CHANNEL HD</display-name>
-<icon src="https://assets.meuguia.tv/logos/rtv.png?v4.3.4g"/>
+<icon src="https://upload.wikimedia.org/wikipedia/commons/5/5e/Warner2018LA.png"/>
 </channel>
 <channel id="animal.planet.br">
 <display-name>ANIMAL PLANET HD</display-name>
-<icon src="https://assets.meuguia.tv/logos/rtv.png?v4.3.4g"/>
+<icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/200px-2018_Animal_Planet_logo.svg.png"/>
 </channel>
 <channel id="arte.1.br">
 <display-name>ARTE 1 HD2</display-name>
-<icon src="https://assets.meuguia.tv/logos/rtv.png?v4.3.4g"/>
+<icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Arte_1_logo.svg/1024px-Arte_1_logo.svg.png"/>
 </channel>
 <channel id="discovery.br">
 <display-name>DISCOVERY CHANNEL HD</display-name>
-<icon src="https://assets.meuguia.tv/logos/rtv.png?v4.3.4g"/>
+<icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/2019_Discovery_logo.svg/1920px-2019_Discovery_logo.svg.png"/>
 </channel>
 <channel id="discovery.science.br">
 <display-name>DISCOVERY SCIENCE HD</display-name>
-<icon src="https://assets.meuguia.tv/logos/rtv.png?v4.3.4g"/>
+<icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Science_Channel_logo.svg/1024px-Science_Channel_logo.svg.png"/>
 </channel>
 <channel id="discovery.theater.br">
 <display-name>DISCOVERY THEATER HD</display-name>
-<icon src="https://assets.meuguia.tv/logos/rtv.png?v4.3.4g"/>
+<icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/2015_Discovery_theater_HD_logo.svg/1920px-2015_Discovery_theater_HD_logo.svg.png"/>
 </channel>
 <channel id="discovery.world.br">
 <display-name>DISCOVERY WORLD HD</display-name>
-<icon src="https://assets.meuguia.tv/logos/rtv.png?v4.3.4g"/>
+<icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/World_Discovery_HD_logo.svg/1024px-World_Discovery_HD_logo.svg.png"/>
 </channel>
 <channel id="history.br">
 <display-name>HISTORY CHANNEL HD</display-name>
-<icon src="https://assets.meuguia.tv/logos/rtv.png?v4.3.4g"/>
+<icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/History_%282021%29.svg/800px-History_%282021%29.svg.png"/>
 </channel>
 <channel id="h2.br">
 <display-name>H2 HD</display-name>
-<icon src="https://assets.meuguia.tv/logos/rtv.png?v4.3.4g"/>
+<icon src="https://upload.wikimedia.org/wikipedia/commons/a/a3/History2Logo2019.png"/>
 </channel>
 <channel id="national.geographic.br">
 <display-name>NATIONAL GEOGRAPHIC HD</display-name>
-<icon src="https://assets.meuguia.tv/logos/rtv.png?v4.3.4g"/>
+<icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/1920px-Natgeologo.svg.png"/>
 </channel>
 <channel id="a.e.br">
 <display-name>A&E HD</display-name>
-<icon src="https://assets.meuguia.tv/logos/rtv.png?v4.3.4g"/>
+<icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/A%26E_Network_logo.svg/1920px-A%26E_Network_logo.svg.png"/>
 </channel>
 <channel id="bis.br">
 <display-name>BIS HD2</display-name>
-<icon src="https://assets.meuguia.tv/logos/rtv.png?v4.3.4g"/>
+<icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Logo_of_Bis.svg/1920px-Logo_of_Bis.svg.png"/>
 </channel>
 <channel id="discovery.turbo.br">
 <display-name>DISCOVERY TURBO HD</display-name>
-<icon src="https://assets.meuguia.tv/logos/rtv.png?v4.3.4g"/>
+<icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Discovery_Turbo_logo.svg/1920px-Discovery_Turbo_logo.svg.png"/>
 </channel>
 <channel id="e.br">
 <display-name>E! HD2</display-name>
-<icon src="https://assets.meuguia.tv/logos/rtv.png?v4.3.4g"/>
+<icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/E%21_Logo_2012.svg/320px-E%21_Logo_2012.svg.png"/>
 </channel>
 <channel id="fashion.br">
 <display-name>FASHION tv HD2</display-name>
-<icon src="https://assets.meuguia.tv/logos/rtv.png?v4.3.4g"/>
-</channel>
-<channel id="Rede.tv.hd.br">
-<display-name>FISH TV HD</display-name>
-<icon src="https://assets.meuguia.tv/logos/rtv.png?v4.3.4g"/>
+<icon src="https://pt.wikipedia.org/wiki/FashionTV_Brasil#/media/Ficheiro:FashionTV2019novo.png"/>
 </channel>
 <channel id="fish.br">
-<display-name>Rede TV HD</display-name>
-<icon src="https://assets.meuguia.tv/logos/rtv.png?v4.3.4g"/>
+<display-name>FISH TV HD</display-name>
+<icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Fish_TV_logo_2022.svg/1920px-Fish_TV_logo_2022.svg.png"/>
 </channel>
 <channel id="food.network.br">
 <display-name>FOOD NETWORK HD2</display-name>
-<icon src="https://assets.meuguia.tv/logos/rtv.png?v4.3.4g"/>
+<icon src="https://upload.wikimedia.org/wikipedia/commons/f/f4/Food_Network_-_Logo_2016.png"/>
 </channel>
 <channel id="gnt.br">
 <display-name>GNT HD2</display-name>
-<icon src="https://assets.meuguia.tv/logos/rtv.png?v4.3.4g"/>
+<icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/GNT_logo-roxo.svg/1920px-GNT_logo-roxo.svg.png"/>
 </channel>
 <channel id="hgtv.br">
 <display-name>HGTV HD</display-name>
-<icon src="https://assets.meuguia.tv/logos/rtv.png?v4.3.4g"/>
+<icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/HGTV_US_Logo_2015.svg/1920px-HGTV_US_Logo_2015.svg.png"/>
 </channel>
 <channel id="discovery.home.health.br">
 <display-name>DISCOVERY HOME & HEALTH HD</display-name>
-<icon src="https://assets.meuguia.tv/logos/rtv.png?v4.3.4g"/>
+<icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Discovery_H%26H_Logo_2022.webp/500px-Discovery_H%26H_Logo_2022.webp.png"/>
 </channel>
 <channel id="tvg.br">
 <display-name>ID - INVESTIGAÇÃO DISCOVERY HD</display-name>
-<icon src="https://assets.meuguia.tv/logos/rtv.png?v4.3.4g"/>
+<icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/InvestigationDiscoveryLogo2020.svg/1920px-InvestigationDiscoveryLogo2020.svg.png"/>
 </channel>
 <channel id="lifetime.brazil.br">
 <display-name>LIFETIME HD</display-name>
-<icon src="https://assets.meuguia.tv/logos/rtv.png?v4.3.4g"/>
+<icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Logo_Lifetime_2020.svg/240px-Logo_Lifetime_2020.svg.png"/>
 </channel>
 <channel id="mtv.br">
 <display-name>Mtv FHD2</display-name>
-<icon src="https://assets.meuguia.tv/logos/rtv.png?v4.3.4g"/>
+<icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/MTV_2021_%28brand_version%29.svg/1920px-MTV_2021_%28brand_version%29.svg.png"/>
 </channel>
 <channel id="multishow.br">
 <display-name>MULTISHOW HD2</display-name>
-<icon src="https://assets.meuguia.tv/logos/rtv.png?v4.3.4g"/>
+<icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Multishow.png/1920px-Multishow.png"/>
 </channel>
 <channel id="off.br">
 <display-name>OFF HD</display-name>
-<icon src="https://assets.meuguia.tv/logos/rtv.png?v4.3.4g"/>
+<icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Canal_Off_logo.svg/1920px-Canal_Off_logo.svg.png"/>
 </channel>
 <channel id="tlc.br">
 <display-name>DISCOVERY TLC HD</display-name>
-<icon src="https://assets.meuguia.tv/logos/rtv.png?v4.3.4g"/>
+<icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/TLC_Logo.svg/1920px-TLC_Logo.svg.png"/>
 </channel>
 <channel id="viva.br">
 <display-name>VIVA FHD2</display-name>
-<icon src="https://assets.meuguia.tv/logos/rtv.png?v4.3.4g"/>
+<icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Canal_Viva_2018_wordmark.svg/1920px-Canal_Viva_2018_wordmark.svg.png"/>
 </channel>
 <channel id="woohoo.br">
 <display-name>WOOHOO SD2</display-name>
-<icon src="https://assets.meuguia.tv/logos/rtv.png?v4.3.4g"/>
+<icon src="https://upload.wikimedia.org/wikipedia/commons/a/a8/Woohoo_logo_2014.png"/>
 </channel>
 <channel id="band.news.br">
 <display-name>BAND NEWS HD2</display-name>
-<icon src="https://assets.meuguia.tv/logos/rtv.png?v4.3.4g"/>
+<icon src="https://upload.wikimedia.org/wikipedia/commons/b/b2/BandNewsTV_2021_Logo.png"/>
 </channel>
 <channel id="cnn.brasil.br">
 <display-name>CNN BRASIL HD2</display-name>
-<icon src="https://assets.meuguia.tv/logos/rtv.png?v4.3.4g"/>
+<icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/CNN_Brasil.svg/1920px-CNN_Brasil.svg.png"/>
 </channel>
 <channel id="globo.news.br">
 <display-name>GLOBO NEWS HD2</display-name>
-<icon src="https://assets.meuguia.tv/logos/rtv.png?v4.3.4g"/>
+<icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Logotipo_da_GloboNews.png/1920px-Logotipo_da_GloboNews.png"/>
 </channel>
 <channel id="record.news.br">
 <display-name>RECORD NEWS HD2</display-name>
-<icon src="https://assets.meuguia.tv/logos/rtv.png?v4.3.4g"/>
+<icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Record_News_logo_2022.svg/1920px-Record_News_logo_2022.svg.png"/>
 </channel>
  
